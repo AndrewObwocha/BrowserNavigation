@@ -1,4 +1,4 @@
-# Simple Web Browser Navigation Simulator
+# Web Browser Navigation Simulator
 
 ## Overview
 
