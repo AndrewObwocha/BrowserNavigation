@@ -15,7 +15,7 @@ The core logic utilizes two stacks: one to keep track of the "back" history and 
 *   Uses a simple command-line interface for interaction.
 *   Includes a basic `Stack` class implementation (`stack.py`).
 
-## How it Works (Conceptual Model)
+## How it Works
 
 The navigation logic relies on two stacks, `back` and `forward`:
 
